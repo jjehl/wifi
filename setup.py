@@ -50,7 +50,7 @@ if should_install_cli:
         print("Not installing bash completion because of lack of permissions.")
 
 setup(
-    name='wifi',
+    name='wifi-roboticia',
     version=version,
     author='Rocky Meza, Gavin Wahl',
     author_email='rockymeza@gmail.com',
